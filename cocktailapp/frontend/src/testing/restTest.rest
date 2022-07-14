@@ -1,0 +1,5 @@
+###
+GET http://localhost:8080/cocktaildb/search/margar  HTTP/1.1
+
+###
+GET http://localhost:8080/cocktail/getList/cocktail-test  HTTP/1.1

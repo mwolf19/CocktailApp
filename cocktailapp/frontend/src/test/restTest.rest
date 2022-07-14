@@ -1,0 +1,5 @@
+###
+GET http://localhost:8080/cocktaildb/search/m'  HTTP/1.1
+
+###
+GET 'http://www.thecocktaildb.com/api/json/v1/1/search.php?s=m' HTTP/1.1
